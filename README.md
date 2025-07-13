@@ -55,7 +55,7 @@ pip install uv
 Run the scraper with the default URL (Allama Iqbal's ghazal):
 
 ```bash
-python app.py
+uv run app.py
 ```
 
 The script will:
@@ -141,3 +141,12 @@ This project is open source. Please ensure your usage complies with Rekhta.org's
 ---
 
 **Note**: This scraper is designed for educational purposes. Please respect the source website's robots.txt and terms of service when using this tool.
+
+## 🙏 Support My Work
+
+If you find this project helpful, consider supporting it by donating via UPI.
+
+![Donate via UPI](https://raw.githubusercontent.com/xposed73/YTDL-python/main/upi-donation.png)
+
+Thank you for your support! ❤️
+
